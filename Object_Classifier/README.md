@@ -1,7 +1,7 @@
 # Object Classifier 🧩
 
 A simple CNN-based object classification project using TensorFlow and Keras.
-
+* Class_names = ['Books', 'Bottle', 'Mug']
 ## Requirements
 - Python 3.8+
 - TensorFlow 2.x

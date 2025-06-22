@@ -1,1 +1,1 @@
-# CNN
+# Convention Neural Network Projects

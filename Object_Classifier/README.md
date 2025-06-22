@@ -25,4 +25,4 @@ pip install tensorflow numpy matplotlib scikit-learn
 
 - Dense (128 neurons, ReLU)
 
-- Output (Softmax, classes=n)
+- Output (Softmax, classes=3)

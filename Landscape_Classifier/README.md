@@ -1,6 +1,6 @@
 # Landscape Classifier 🌄
 
-A deep learning-based image classification project to identify different types of landscapes such as mountains, forests, deserts, beaches, and more.
+A deep learning-based image classification project to identify different types of landscapes such Rural or Urbun
 
 ## 📝 Project Description
 This project involves building a Convolutional Neural Network (CNN) model to classify images of various landscapes into predefined categories. The model is trained and evaluated using TensorFlow and Keras frameworks inside a Jupyter Notebook.

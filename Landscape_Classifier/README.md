@@ -27,7 +27,6 @@ Install dependencies using:
 ```bash
 pip install tensorflow numpy matplotlib scikit-learn
 ```
-.
 
 🛡️ License
 This project is open-source and free to use under the MIT License.

@@ -51,9 +51,9 @@ Dense(10, activation='softmax')
 
 - Macro F1-Score: ~0.89
 
-🔍 Classification Report (Excerpt)
-Class	Precision	Recall	F1-Score
-Trouser	0.9928	0.9720	0.9823
-Sandal	0.9848	0.9690	0.9768
-Shirt	0.7441	0.6600	0.6995
-Avg	0.8931	0.8938	0.8928
+🔍 Classification Report 
+- Class	  || Precision	  || Recall	  || F1-Score
+- Trouser	|| 0.9928	    || 0.9720	    || 0.9823
+- Sandal	|| 0.9848	    || 0.9690     ||	0.9768
+- Shirt	  || 0.7441	    || 0.6600   	|| 0.6995
+- Avg	    || 0.8931	    || 0.8938	    || 0.8928

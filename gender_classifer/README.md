@@ -8,7 +8,6 @@ This project builds a Convolutional Neural Network (CNN) model to classify the *
 
 - **Source:** [Official Site](https://susanqq.github.io/UTKFace/) or [Kaggle Mirror](https://www.kaggle.com/datasets/jangedoo/utkface-new)
 - **Format:** JPEG images
-- **Filename Format:**  
 - **Gender Label Encoding:**
 - `0` = Male  
 - `1` = Female
